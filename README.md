@@ -8,6 +8,6 @@ Intercepts potentially dangerous commands, and asks for confirmation.
 
 # Example
 1. Extract `CMDInterceptor.py` to home directory
-2. At the end of `.bashrc` put `alias rm='python3 ~/CMDInterceptor.py rm`
+2. At the end of `.bashrc` put `alias rm='python3 ~/CMDInterceptor.py rm'`
 3. Restart terminal
 
